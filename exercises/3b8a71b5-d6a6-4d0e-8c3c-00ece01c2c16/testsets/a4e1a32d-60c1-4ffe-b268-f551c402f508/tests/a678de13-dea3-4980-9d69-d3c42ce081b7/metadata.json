@@ -1,0 +1,1 @@
+{"id":"a678de13-dea3-4980-9d69-d3c42ce081b7","arguments":["u"],"weight":"5","visible":false,"input":"input1.txt","output":"output1.txt","timeout":10,"feedback":[{"message":"Ts","weight":"2"},{"message":"Tada","weight":"4"}]}
