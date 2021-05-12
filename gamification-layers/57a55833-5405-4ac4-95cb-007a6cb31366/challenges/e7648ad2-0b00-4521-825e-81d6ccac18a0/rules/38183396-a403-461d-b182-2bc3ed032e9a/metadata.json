@@ -1,0 +1,1 @@
+{"id":"38183396-a403-461d-b182-2bc3ed032e9a","name":"Unlock Final Attack","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","d82932f8-2f60-4309-99b0-f762b601a0f2","state","OPENED"]}]}
