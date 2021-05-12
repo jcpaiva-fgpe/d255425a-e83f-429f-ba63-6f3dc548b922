@@ -1,0 +1,1 @@
+{"id":"5abe7964-42f9-4807-b1be-592beb8f192b","name":"Unlock Death Star","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","884ae72a-1fcd-4fe3-ab3e-a3447c1f3b81","state","OPENED"]}]}
