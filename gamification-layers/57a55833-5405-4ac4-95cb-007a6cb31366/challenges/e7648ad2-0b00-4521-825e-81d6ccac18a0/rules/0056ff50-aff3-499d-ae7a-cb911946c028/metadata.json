@@ -1,0 +1,1 @@
+{"id":"0056ff50-aff3-499d-ae7a-cb911946c028","name":"Unlock Regret","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","aeab704f-0977-4292-8e27-d671a0c380de","state","OPENED"]}]}
